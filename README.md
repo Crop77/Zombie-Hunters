@@ -47,3 +47,7 @@ The focus is on responsive player control, readable enemy behaviour, and a clear
 
 ## 📸 Screenshots
 
+![Main Menu](ZombieHuntersScreenshots/ZHSS1.png)
+![In-Game Collectibles](ZombieHuntersScreenshots/ZHSS2.png)
+
+
